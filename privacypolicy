@@ -1,0 +1,547 @@
+ShadowReplay 私隱權政策
+
+最後更新日期：2026 年 9 月 26 日
+
+本私隱權政策說明 ShadowReplay 如何存取、使用、儲存、處理及分享使用者資料。
+
+1. 開發者資料
+
+應用程式名稱： ShadowReplay
+ 開發者名稱： Sunny
+ 聯絡電郵： sunny33871@gmail.com
+
+如對本私隱權政策或 ShadowReplay 的資料處理方式有任何疑問，請透過上述電郵地址與開發者聯絡。
+
+2. 關於 ShadowReplay
+
+ShadowReplay 是一款姿勢及面部表情模仿遊戲。
+
+使用者可以拍攝或選擇一張參考照片，然後模仿參考姿勢或表情並拍攝另一張照片。App 會分析照片，計算姿勢或表情的相似度分數。
+
+視乎所選遊戲模式，分析內容可能包括：
+
+身體骨骼位置
+身體比例
+關節角度及方向
+眼睛狀態
+眉毛位置
+嘴型
+笑容狀態
+頭部位置及方向
+
+ShadowReplay 亦支援多人挑戰、成績圖、圖片儲存及分享功能。
+
+3. 相機及照片存取
+
+ShadowReplay 可能會要求存取裝置的相機及相簿，以便使用者：
+
+拍攝參考照片
+拍攝模仿照片
+從裝置選擇參考照片
+建立對比圖片及成績圖
+將成績圖片儲存至裝置相簿
+透過其他應用程式分享成績圖片
+
+照片主要在使用者的裝置上處理。ShadowReplay 不會自行將遊戲照片上傳至由開發者營運的伺服器。
+
+只有在使用者主動要求儲存，或 App 建立並儲存成績圖片時，相關圖片才會寫入裝置相簿。
+
+當使用者選擇分享圖片時，圖片會傳送至使用者選擇的應用程式或服務。該第三方應用程式或服務會依照其自身的私隱權政策處理所分享的內容。
+
+使用者不應在遊戲照片中包含機密、個人或敏感資料。
+
+4. 姿勢及面部表情分析
+
+ShadowReplay 使用裝置端分析技術偵測及比較影像特徵。
+
+視乎所選模式，App 可能會分析：
+
+人體骨骼位置
+身體位置
+身體比例
+關節角度
+面部特徵點
+眼睛及眉毛
+嘴型及笑容
+頭部方向
+
+這些分析結果只會用於計算遊戲分數及產生遊戲結果。
+
+ShadowReplay 不會使用姿勢或面部表情分析來識別使用者身分、驗證使用者身分，或建立生物識別身分檔案。
+
+5. 儲存在裝置上的資料
+
+ShadowReplay 可能會在使用者的裝置上儲存以下資料：
+
+訪客試玩開始時間及剩餘試玩時間
+登入狀態
+所選語言
+遊戲設定
+所選遊戲模式
+多人模式設定
+參考照片及參賽者照片的位置
+遊戲分數及進度
+訂閱狀態
+已建立的對比圖片及成績圖
+
+這些資料用於維持 App 運作、保存遊戲進度、記住使用者偏好及提供使用者要求的功能。
+
+使用者可以透過 Android 系統設定清除 App 的本機資料。解除安裝 ShadowReplay 亦可能會移除本機 App 資料，但先前儲存至裝置相簿的照片或成績圖可能會繼續保留，直至使用者自行刪除。
+
+6. Google 登入
+
+ShadowReplay 可能會提供 Google 登入作為可選的登入方式。
+
+當使用者選擇使用 Google 登入時，Google 可能會向 App 提供完成驗證所需的帳戶資料，例如帳戶識別碼及基本個人資料。
+
+ShadowReplay 不會要求、接收或儲存使用者的 Google 帳戶密碼。
+
+Google 會按照其適用條款及私隱權政策處理 Google 登入資料。
+
+7. Google Play Games 服務
+
+ShadowReplay 可能會使用 Google Play Games 服務提供以下功能：
+
+玩家身分驗證
+遊戲成就
+成就進度
+遊戲活動記錄
+
+使用者使用這些功能時，Google 可能會處理玩家識別資料、成就資料及遊戲活動資料。
+
+Google Play Games 服務所處理的資料受 Google 適用條款及私隱權政策規管。
+
+8. 訂閱及付款
+
+ShadowReplay 可能會透過 Google Play Billing 提供訂閱或其他購買項目。
+
+付款交易由 Google Play 處理。開發者不會直接接收或儲存完整的信用卡號碼或完整付款帳戶資料。
+
+ShadowReplay 可能會接收有限的購買相關資料，包括：
+
+購買狀態
+訂閱狀態
+訂閱方案
+購買確認狀態
+
+這些資料用於確認購買及提供相應功能。
+
+Google 會按照其適用條款及私隱權政策處理付款資料。
+
+9. 廣告
+
+ShadowReplay 的免費版本可能會透過 Google Mobile Ads 顯示橫幅廣告及插頁式廣告。
+
+視乎使用者設定、同意選擇、所在地區及適用法律，廣告服務可能會處理以下資料：
+
+裝置資料
+廣告識別碼
+概略位置
+廣告互動資料
+App 互動資料
+診斷資料
+
+這些資料可能用於提供、限制、衡量、保護及改善廣告服務。
+
+ShadowReplay 無法獨立控制 Google Mobile Ads 所處理的所有資料。Google 會按照其自身條款及私隱權政策處理相關資料。
+
+10. 第三方服務
+
+ShadowReplay 可能會使用以下第三方服務：
+
+Google Sign-In
+Google Play Games 服務
+Google Play Billing
+Google Mobile Ads
+Google ML Kit
+使用者選擇用於分享內容的應用程式
+
+這些服務可能會處理提供各自功能所需的資料。
+
+第三方服務會按照其自身的條款、私隱權政策、設定及法律義務處理資料。
+
+使用 Google 服務並不代表 Google 的私隱權政策可以取代本 ShadowReplay 私隱權政策。本政策專門說明 ShadowReplay 及其整合服務如何處理與本 App 有關的資料。
+
+11. 資料用途
+
+ShadowReplay 所處理的資料可能用於：
+
+提供姿勢及表情模仿功能
+計算相似度分數
+維持目前遊戲進度
+支援多人挑戰
+建立成績圖片及成績圖
+記住語言及遊戲偏好
+提供 Google 登入及成就功能
+確認訂閱狀態
+顯示及衡量廣告
+診斷技術問題
+防止濫用 App 及其服務
+
+ShadowReplay 不會出售使用者的個人資料。
+
+12. 資料分享
+
+在提供 App 功能所必需的情況下，資料可能會由以下類別的接收者處理或接收：
+
+Google 身分驗證服務
+Google Play Games 服務
+Google Play Billing
+Google 廣告服務
+Google ML Kit
+使用者主動選擇的分享應用程式及服務
+適用法律要求的法律或監管機構
+
+除非使用者主動執行分享操作，或提供使用者明確要求的功能需要分享資料，否則 ShadowReplay 不會自行向第三方分享遊戲照片。
+
+13. 資料保留及刪除
+
+ShadowReplay 儲存在裝置上的資料可能會一直保留，直至使用者：
+
+刪除相關照片或成績圖片
+透過 Android 設定清除 App 儲存空間
+在適用情況下登出帳戶
+解除安裝 App
+
+儲存至裝置相簿的照片及成績圖，可能會在 App 解除安裝後繼續保留。使用者需要透過裝置上的相簿或檔案管理應用程式刪除相關檔案。
+
+由 Google Sign-In、Google Play Games、Google Play Billing、Google Mobile Ads 或其他 Google 服務處理的資料，會依照相關 Google 服務的政策及帳戶控制設定保留及刪除。
+
+如需協助處理由開發者直接控制的資料，請聯絡：
+
+sunny33871@gmail.com
+
+14. 資料安全
+
+ShadowReplay 採取合理的技術及組織措施，保護透過 App 處理的資料。
+
+用於姿勢及面部表情評分的照片主要在使用者的裝置上處理。如資料透過整合的第三方服務傳輸，相關第三方服務須按照其適用政策及安全措施保護資料。
+
+任何電子儲存或傳輸方式均無法保證百分之百安全，因此 ShadowReplay 無法保證資料絕對安全。
+
+15. 兒童私隱
+
+若兒童未達其所在國家或地區適用的最低數碼同意年齡，則不應在沒有父母或法定監護人參與及監督的情況下使用 ShadowReplay。
+
+父母及監護人應監督兒童透過 App 拍攝、選擇、儲存或分享的照片。
+
+使用者不應在遊戲照片中包含敏感個人資料、身分證明文件、私人位置或其他機密內容。
+
+如開發者得悉 App 以不符合適用法律的方式收集了兒童的個人資料，開發者將採取合理措施進行調查及妥善處理。
+
+16. 國際服務
+
+ShadowReplay 可能會在多個國家及地區提供服務。第三方服務供應商可能會在使用者所在地以外的國家或地區處理資料。
+
+不同司法管轄區的資料保護法律可能有所不同。在法律要求的情況下，相關服務供應商有責任為其資料處理活動採取適當的保障措施。
+
+17. 使用者選擇
+
+使用者可以透過以下方式控制部分資料處理活動：
+
+不使用可選的 Google 登入
+在 Android 設定中管理相機及照片權限
+在適用情況下調整廣告及私隱偏好
+選擇是否儲存成績圖片
+選擇是否分享內容及分享到哪個服務
+登出 App
+清除 App 儲存空間
+刪除已儲存的照片及成績圖
+解除安裝 App
+
+停用部分權限可能會導致相關 App 功能無法使用。
+
+18. 本私隱權政策的變更
+
+本私隱權政策可能會在以下情況更新：
+
+ShadowReplay 功能有所變更
+第三方服務有所變更
+資料處理方式有所變更
+適用法律或平台要求有所變更
+
+更新後的私隱權政策會發布於本網頁，頁面頂部的「最後更新日期」亦會同步更新。
+
+建議使用者定期查閱本私隱權政策。
+
+19. 聯絡資料
+
+如對本私隱權政策或 ShadowReplay 的資料處理方式有任何問題、疑慮或要求，請聯絡：
+
+開發者： Sunny
+ 電郵： sunny33871@gmail.com
+ 應用程式： ShadowReplay
+ 
+ Privacy Policy for ShadowReplay
+
+Last updated: September 26, 2026
+
+This Privacy Policy explains how ShadowReplay accesses, uses, stores, processes, and shares user information.
+
+1. Developer Information
+
+Application name: ShadowReplay
+ Developer: Sunny
+ Contact email: sunny33871@gmail.com
+
+If you have questions about this Privacy Policy or how ShadowReplay handles information, please contact the developer using the email address above.
+
+2. About ShadowReplay
+
+ShadowReplay is a pose and facial-expression imitation game.
+
+Users can capture or select a reference photo and then take another photo while recreating the reference pose or expression. The app analyzes the photos to calculate a similarity score.
+
+Depending on the selected game mode, the analysis may include:
+
+Body landmark positions
+Body proportions
+Joint angles and directions
+Eye appearance
+Eyebrow positions
+Mouth shape
+Smile appearance
+Head position and direction
+
+ShadowReplay also supports multiplayer challenges, result cards, image saving, and sharing.
+
+3. Camera and Photo Access
+
+ShadowReplay may request access to the device camera and photo library so that users can:
+
+Capture reference photos
+Capture imitation photos
+Select reference photos from the device
+Create comparison images and scorecards
+Save result images to the device gallery
+Share result images through other applications
+
+Photos are primarily processed on the user’s device. ShadowReplay does not independently upload gameplay photos to a server operated by the developer.
+
+A photo is saved to the device gallery only when the user requests that action or when the app creates and saves a result image.
+
+When a user chooses to share an image, the image is sent to the application or service selected by the user. That third-party application or service processes the shared content according to its own privacy policy.
+
+Users should avoid including confidential, personal, or sensitive information in gameplay photos.
+
+4. Pose and Facial-Expression Analysis
+
+ShadowReplay uses on-device analysis to detect and compare visual features.
+
+Depending on the selected mode, the app may analyze:
+
+Skeletal landmark positions
+Body positioning
+Body proportions
+Joint angles
+Facial landmarks
+Eyes and eyebrows
+Mouth shape and smile
+Head direction
+
+This analysis is used to calculate game scores and produce gameplay results.
+
+ShadowReplay does not use pose or facial-expression analysis to identify a person, authenticate a person, or create a biometric identity profile.
+
+5. Information Stored on the Device
+
+ShadowReplay may store the following information locally on the user’s device:
+
+Guest trial start time and remaining trial period
+Sign-in status
+Selected language
+Game settings
+Selected game mode
+Multiplayer settings
+Reference and participant photo locations
+Gameplay scores and progress
+Subscription status
+Generated comparison images and scorecards
+
+This information is used to operate the app, maintain game progress, remember preferences, and provide requested features.
+
+Users can remove locally stored app data through the Android system settings. Uninstalling ShadowReplay may also remove locally stored app data, although photos or scorecards previously saved to the device gallery may remain until the user deletes them.
+
+6. Google Sign-In
+
+ShadowReplay may offer Google Sign-In as an optional sign-in method.
+
+When a user chooses Google Sign-In, Google may provide the account information required to complete authentication, such as an account identifier and basic profile information.
+
+ShadowReplay does not request, receive, or store the user’s Google Account password.
+
+Google processes Google Sign-In information according to Google’s applicable terms and privacy policies.
+
+7. Google Play Games Services
+
+ShadowReplay may use Google Play Games Services to provide features such as:
+
+Player authentication
+Game achievements
+Achievement progress
+Gameplay-related activity
+
+Google may process player identifiers, achievement information, and gameplay activity when these features are used.
+
+Information processed by Google Play Games Services is subject to Google’s applicable terms and privacy policies.
+
+8. Subscriptions and Payments
+
+ShadowReplay may offer subscriptions or other purchases through Google Play Billing.
+
+Payment transactions are processed by Google Play. The developer does not directly receive or store complete credit card numbers or complete payment account details.
+
+ShadowReplay may receive limited purchase-related information, including:
+
+Purchase status
+Subscription status
+Subscription plan
+Purchase acknowledgement status
+
+This information is used to confirm purchases and provide the corresponding features.
+
+Google processes payment information according to Google’s applicable terms and privacy policies.
+
+9. Advertising
+
+The free version of ShadowReplay may display banner advertisements and interstitial advertisements through Google Mobile Ads.
+
+Depending on the user’s settings, consent choices, location, and applicable law, advertising services may process information such as:
+
+Device information
+Advertising identifiers
+Approximate location
+Advertising interactions
+App interactions
+Diagnostic information
+
+This information may be used to provide, limit, measure, secure, and improve advertising services.
+
+ShadowReplay does not control all information independently processed by Google Mobile Ads. Google handles this information according to its own terms and privacy policies.
+
+10. Third-Party Services
+
+ShadowReplay may use the following third-party services:
+
+Google Sign-In
+Google Play Games Services
+Google Play Billing
+Google Mobile Ads
+Google ML Kit
+Applications selected by the user for sharing content
+
+These services may process information needed to provide their respective functions.
+
+Third-party services process information according to their own terms, privacy policies, configurations, and legal obligations.
+
+The use of Google services does not mean that Google’s Privacy Policy replaces this ShadowReplay Privacy Policy. This policy specifically explains how ShadowReplay and its integrated services handle information in connection with the app.
+
+11. How Information Is Used
+
+Information processed through ShadowReplay may be used to:
+
+Provide pose and expression imitation features
+Calculate similarity scores
+Maintain the active game session
+Support multiplayer challenges
+Generate result images and scorecards
+Remember language and game preferences
+Provide Google sign-in and achievement features
+Confirm subscription status
+Display and measure advertisements
+Diagnose technical problems
+Protect the app and its services from misuse
+
+ShadowReplay does not sell users’ personal information.
+
+12. Information Sharing
+
+Information may be processed or shared with the following categories of recipients when necessary:
+
+Google authentication services
+Google Play Games Services
+Google Play Billing
+Google advertising services
+Google ML Kit
+Applications and services selected by the user for sharing
+Legal or regulatory authorities when required by applicable law
+
+ShadowReplay does not independently share gameplay photos with third parties unless the user initiates a sharing action or the sharing is required to provide a feature explicitly requested by the user.
+
+13. Data Retention and Deletion
+
+Information stored locally by ShadowReplay may remain on the user’s device until the user:
+
+Deletes the relevant photo or result image
+Clears the app’s storage through Android settings
+Signs out, where applicable
+Uninstalls the app
+
+Photos and scorecards saved to the device gallery may remain after the app is uninstalled. Users must delete those files through the device’s photo or file management application.
+
+Information processed by Google Sign-In, Google Play Games, Google Play Billing, Google Mobile Ads, or other Google services is retained and deleted according to the applicable Google service policies and account controls.
+
+To request assistance concerning information controlled directly by the developer, contact:
+
+sunny33871@gmail.com
+
+14. Data Security
+
+ShadowReplay uses reasonable technical and organizational measures to protect information processed through the app.
+
+Photos used for pose and facial-expression scoring are primarily processed on the user’s device. Where information is transmitted through integrated third-party services, those services are responsible for securing information according to their applicable policies and security practices.
+
+No method of electronic storage or transmission is completely secure. Therefore, absolute security cannot be guaranteed.
+
+15. Children’s Privacy
+
+ShadowReplay should not be used by children below the minimum digital consent age applicable in their country or region without the involvement and supervision of a parent or legal guardian.
+
+Parents and guardians should supervise the photos captured, selected, saved, or shared through the app.
+
+Users should not include sensitive personal information, identification documents, private locations, or other confidential content in gameplay photos.
+
+If the developer becomes aware that personal information from a child has been collected in a manner inconsistent with applicable law, reasonable steps will be taken to investigate and appropriately address the issue.
+
+16. International Availability
+
+ShadowReplay may be available in multiple countries and regions. Third-party service providers may process information in countries or regions other than the user’s location.
+
+Data protection laws may differ between jurisdictions. Where required, the relevant service provider is responsible for applying appropriate safeguards to its processing activities.
+
+17. User Choices
+
+Users can control certain information-processing activities by:
+
+Declining optional Google Sign-In
+Managing camera and photo permissions in Android settings
+Changing advertising and privacy preferences where available
+Choosing whether to save result images
+Choosing whether and where to share content
+Signing out of the app
+Clearing the app’s storage
+Deleting saved photos and scorecards
+Uninstalling the app
+
+Disabling certain permissions may prevent related app features from working.
+
+18. Changes to This Privacy Policy
+
+This Privacy Policy may be updated when:
+
+ShadowReplay features change
+Third-party services change
+Data-handling practices change
+Applicable laws or platform requirements change
+
+The updated Privacy Policy will be published on this webpage. The “Last updated” date at the top of the page will also be changed.
+
+Users are encouraged to review this Privacy Policy periodically.
+
+19. Contact Information
+
+For questions, concerns, or requests related to this Privacy Policy or ShadowReplay’s handling of information, please contact:
+
+Developer: Sunny
+ Email: sunny33871@gmail.com
+ Application: ShadowReplay
